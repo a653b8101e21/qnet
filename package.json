@@ -1,0 +1,24 @@
+{
+  "name": "qnet",
+  "version": "1.0.0",
+  "description": "qnet is a vigenère cipher based domain and network name generator",
+  "main": "index.js",
+  "bin": "./cli.js",
+  "scripts": {
+    "test": "./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a653b8101e21/qnet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a653b8101e21/qnet/issues"
+  },
+  "homepage": "https://github.com/a653b8101e21/qnet#readme",
+  "dependencies": {
+    "vigenere": "^1.0.2"
+  }
+}
