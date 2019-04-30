@@ -5,6 +5,8 @@
   "main": "index.js",
   "bin": "./cli.js",
   "scripts": {
+    "prepublish": "git add .; git commit -m \"npm update\"; npm run version patch;",
+    "postpublish": "git push;",
     "test": "./test.js"
   },
   "repository": {
