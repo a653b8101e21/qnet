@@ -7,9 +7,10 @@ Use qnet to create an alternate universe of domain names for example where usern
 
 ```Tell your friends "Hey, if you need to get in touch with me just message eve on qnet you'll find me in asgard```
 
-```eve``` being a three letter combination is certainly taken but when used in conjunction with a qnet realm it maybe possible to clame it:
+```eve``` being a three letter combination is certainly taken but when used in conjunction with a qnet realm it maybe possible to clame it.
 
 ## Example
+
 Examples of transforming the name eve through various qnet realms:
 
 qnet america ```eve``` => ```ehi```
@@ -23,7 +24,15 @@ qnet earth ```eve``` => ```ivv```
 qnet universe ```eve``` => ```yim```
 
 
-Name ```eve``` will certainly be taken but encodings ```ehi```, ```zvp```, ```enk```, ```ivv```, ```yim``` could very well be available.
+Name ```eve``` will certainly be taken, but encodings ```ehi```, ```zvp```, ```enk```, ```ivv```, ```yim``` could very well be available.
+
+## Caveat Emptor
+
+Where ```eve``` is a simple name to remember, with qnet there is another piece to memorize, the name of the realm where that person resides.
+
+ In my opinion qnet://eve@valhalla is more human than eve2
+
+ qnet://eve@valhalla
 
 ## Installation
 
